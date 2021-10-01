@@ -1,5 +1,5 @@
 syntax = "proto3";
-package user;
+package pb;
 
 message UserRequest {
     int64 id = 1;
